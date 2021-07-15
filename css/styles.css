@@ -16,7 +16,7 @@ body {
   color: rgb(46, 42, 42);
   font-size: 16px;
   text-align: center;
-  background-image: #fff;
+  background-color:lightseagreen;
   font-family: "Open Sans", sans-serif;
   margin-top: 3rem;
 }
@@ -73,7 +73,7 @@ h1 {
 }
 
 .fa-envelope {
-  color: #ccc;
+  color: white;
 }
 
 button {
@@ -86,7 +86,7 @@ button {
   font-weight: bold;
   border: none;
   cursor: pointer;
-  background-color: tomato;
+  background-color:tomato;
 }
 
 button:hover {
